@@ -1,0 +1,15 @@
+ul li:nth-child(1) {
+  border: 1px solid black;
+  max-width: 800px;
+}
+
+li {
+  display: flex;
+}
+
+li span {
+  display: flex;
+  flex-basis: 150px;
+  justify-content: center;
+}
+

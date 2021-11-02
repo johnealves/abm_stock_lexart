@@ -1,0 +1,7 @@
+li {
+  display: flex;
+}
+
+li span {
+  flex-basis: 150px;
+}
